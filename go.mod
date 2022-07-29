@@ -1,4 +1,4 @@
-module github.com/BTBurke/twiml
+module github.com/talksoon/twiml
 
 go 1.13
 
